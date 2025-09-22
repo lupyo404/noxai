@@ -1,0 +1,5 @@
+{
+  "name": "AI Media Generator: Nano & Veo",
+  "description": "An application to generate stunning images and videos using Google's Gemini AI models. Create visual content from simple text prompts.",
+  "requestFramePermissions": []
+}
